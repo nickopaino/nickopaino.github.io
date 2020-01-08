@@ -64,7 +64,7 @@ let projects = [
     description: "Content Management System",
     pltt: [ "PHP", "WordPress", "HTML", "CSS", "JS", "AJAX", "MySQL"],
     link: "https://www.jroozoetreview.com.ph/",
-    image: "assets/images/JRooz_OET.png",
+    image: "assets/images/Jrooz_oet.png",
     status: 3,
     year: 2018,
     group: 2
@@ -74,7 +74,7 @@ let projects = [
     description: "Content Management System",
     pltt: [ "PHP", "WordPress", "HTML", "CSS", "JS", "AJAX", "MySQL"],
     link: "https://www.pteacademic.com.ph/",
-    image: "assets/images/JRooz_PTE.png",
+    image: "assets/images/Jrooz_pte.png",
     status: 3,
     year: 2018,
     group: 2,
@@ -85,7 +85,7 @@ let projects = [
     description: "Online Review with Content Management System",
     pltt: [ "PHP", "WordPress", "HTML", "CSS", "JS", "AJAX", "MySQL"],
     link: "https://www.jroozonlinereview.com/",
-    image: "assets/images/JRooz_Online.png",
+    image: "assets/images/Jrooz_Online.png",
     status: 3,
     year: 2018,
     group: 2
